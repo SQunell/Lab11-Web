@@ -1,3 +1,31 @@
 h1 {
-    color: #e84a27;
+overflow: hidden;
+    color: #ff37f7;
+    text-align: center;
+    background-color: white
+}
+.topnav {
+    overflow: hidden;
+    background-color: #f57;
+}
+body {
+    background-color: #f0d11a;
+}
+/* Navbar links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.footer {
+    background-color: #ababab;
+    text-align: left;
+    padding: 10px;
 }
